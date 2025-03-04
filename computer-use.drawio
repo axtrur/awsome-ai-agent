@@ -131,8 +131,8 @@
         <mxCell id="w2XHmALismYKOV4oW_bj-26" value="maybe other protocol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="677" y="810" width="143" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2XHmALismYKOV4oW_bj-28" value="&lt;span style=&quot;border-radius: 4px; padding: 0px 2px; font-family: Arial, sans-serif; text-align: left;&quot;&gt;Artificial Intelligence&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;spacingBottom=3;spacingTop=3;fillColor=#B5739D;" vertex="1" parent="1">
-          <mxGeometry x="440" y="620" width="200" height="30" as="geometry" />
+        <mxCell id="w2XHmALismYKOV4oW_bj-28" value="&lt;span style=&quot;border-radius: 4px; padding: 0px 2px; font-family: Arial, sans-serif; text-align: left;&quot;&gt;AI 能力曲线&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;spacingBottom=3;spacingTop=3;fillColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="450" y="630" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2XHmALismYKOV4oW_bj-30" value="rule planer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#B5739D;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="655" y="948" width="80" height="30" as="geometry" />
