@@ -95,16 +95,16 @@
         <mxCell id="w2XHmALismYKOV4oW_bj-5" value="MCP-Use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="850" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2XHmALismYKOV4oW_bj-6" value="Agent-Use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="w2XHmALismYKOV4oW_bj-6" value="Agent-Use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#787878;" vertex="1" parent="1">
           <mxGeometry x="847" y="760" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2XHmALismYKOV4oW_bj-7" value="workflow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="910" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2XHmALismYKOV4oW_bj-8" value="deep research" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="w2XHmALismYKOV4oW_bj-8" value="deep research" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="810" y="860" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2XHmALismYKOV4oW_bj-9" value="Computer-Use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="w2XHmALismYKOV4oW_bj-9" value="Computer-Use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#787878;" vertex="1" parent="1">
           <mxGeometry x="900" y="680" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2XHmALismYKOV4oW_bj-10" value="Function calling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
